@@ -7,7 +7,7 @@
   "scripts": {
     "start": "parcel",
     "build": "parcel build",
-    "build-gh": "parcel build --public-url 'https://{github-username}.github.io/{repo-name}'",
+    "build-gh": "parcel build --public-url 'https://AadishBansal12.github.io/Aadish-Bansal-portfolio'",
     "predeploy": "npm run build-gh",
     "deploy": "gh-pages -d dist"
   },
@@ -27,10 +27,10 @@
   "devDependencies": {
     "eslint": "^8.23.0",
     "eslint-config-prettier": "^8.5.0",
-    "eslint-plugin-jsx-a11y": "^6.6.1",
+    "eslint-plugin-jsx-a11y": "^6.5.1",
     "eslint-plugin-prettier": "^4.2.1",
-    "eslint-plugin-react": "^7.31.7",
-    "gh-pages": "^4.0.0",
+    "eslint-plugin-react": "^7.25.3",
+    "gh-pages": "^3.0.0",
     "html-webpack-plugin": "^5.5.0",
     "parcel": "^2.7.0",
     "prettier": "^2.7.1",
