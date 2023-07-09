@@ -24,8 +24,7 @@ const imageAltText = "purple and blue abstract background";
  * Sort description that expands on your title on the Home component.
  */
 const description =
-  "I'm a UI/UX student studying at Barnett Technical University. I enjoy creating unique and simplistic user interfaces in creative ways.";
-
+  "I'm Aadish, a tech-savvy professional experienced in AI/ML, Product Management, UI/UX Design, IT Support (Google), Android/Frontend Development, and Photography. My passion lies in using technology to drive positive change. Let's collaborate on innovative projects that create meaningful experiences for users";
 /**
  * List of some of skills or technologies you work on, are learning,
  * passionate about, or enjoy,
