@@ -30,9 +30,9 @@ const siteProps = {
   gitHub: "AadishBansal12",
   instagram: "aadishbansal1",
   linkedIn: "aadishbansal1",
-  medium: "Aadishbansal",
-  twitter: "",
-  youTube: "Aadish Bansal",
+  medium: "aadishbansal12",
+  twitter: "AadiArt",
+  youTube: "aadimodernart",
 };
 
 const primaryColor = "#4E567E";
